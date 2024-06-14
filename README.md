@@ -1,2 +1,2 @@
 # Simon-Game
-Making Simon Game using Html, CSS and JavaScript
+Making Simon Game using Html, CSS and JavaScript.
